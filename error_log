@@ -1,0 +1,4 @@
+[26-Aug-2013 21:32:04 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/spark/tech-society.tk/registration.php on line 29
+[26-Aug-2013 21:33:02 Europe/Moscow] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home/spark/tech-society.tk/registration.php on line 36
+[26-Aug-2013 21:36:53 Europe/Moscow] PHP Parse error:  syntax error, unexpected ',' in /home/spark/tech-society.tk/registration.php on line 34
+[26-Aug-2013 21:37:55 Europe/Moscow] PHP Parse error:  syntax error, unexpected ',' in /home/spark/tech-society.tk/registration.php on line 34

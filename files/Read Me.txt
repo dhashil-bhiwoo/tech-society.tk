@@ -1,0 +1,35 @@
+This Software has been submitted anonymously via our official mail by someone
+who claims to be one of our member and works under the code name C4310N
+
+We at the UTM Tech Society have tested the software on the campus and it WORKSS!!
+yaayyyyy....
+
+The submission was made with the following message:
+
+"Depi extra lontan p ggn problem wifi lor campus et le fait ki ena access a
+internet mai wifi la li closed et pa tou zelev ki ggn access
+
+mem lor laline ggn extra problem et zelev ggn bocou problem pou fer zot ban travay
+
+
+ena fois ggn wifi access a internet, ena fois non et sa ti prgm la pas garanti
+100% pou ggn internet vu ki c administration UTM ki occupe sa mai li certainement
+plis 1solution alternatif provisoir en attendant!!"
+
+
+The software is only for windows platform and has only been tested on
+WIN7(32bit&64bit) but should work on other and newer windows platform.
+
+
+Installation process:
+
+1. Extract the content of the RAR file
+2. Run the setup file from where you have extracted it.
+3. Dont forget to follow the important steps on our website.
+4. you are now ready to use the software
+
+Important note: you need to use reset option anytime that you will be connecting
+                to any other network outside UTM campus
+
+For any queries about the software feel free to contact us!
+http://www.tech-society.tk/contact.asp

@@ -1,0 +1,35 @@
+body
+{
+
+background-image: url(images/rockywall.png );
+background-size: auto;
+background-repeat: repeat repeat;
+}
+
+#body
+{
+	margin:auto;
+	background: none repeat scroll 0 0 #F1F2F3;
+	width:836px;
+	box-shadow: 0px 5px 7px #4E4E4E;
+	color:
+}
+
+#content
+{
+	font-family: "Gill Sans","Trebuchet MS",Calibri,sans-serif;
+	color:#333333;
+	padding:20px;
+}
+
+#banner
+{
+	box-shadow: 0px 5px 7px #4E4E4E;
+}
+
+h1
+{
+font-size:18px;
+}
+.error{
+color:red;}
